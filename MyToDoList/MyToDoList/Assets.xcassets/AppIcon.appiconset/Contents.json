@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "Papirus-Team-Papirus-Apps-Preferences-desktop-icons.512-1024.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
